@@ -4,3 +4,5 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 12121212
 add  a  fox
+
+解决部分bug
