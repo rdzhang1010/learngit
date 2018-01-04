@@ -6,3 +6,5 @@ Creating a new branch is quick AND simple.
 add  a  fox
 
 解决部分bug
+
+解决部分bug2
